@@ -1,6 +1,6 @@
 # Тестове завдання — Список користувачів
 
-[Demo link]('https://tonni004.github.io/test-task-devhive/')
+[Demo link](https://test-task-devhive.netlify.app/)
 
 ## Опис
 
