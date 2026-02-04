@@ -1,0 +1,21 @@
+@import "../../styles/variables.css";
+
+.formContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.formContainer input {
+    padding: var(--input-padding);
+    margin-bottom: 5px;
+}
+
+.formError {
+    margin-bottom: 3px;
+    font-size: 10px;
+    color: red;
+}
+
+.saveButton {
+    padding: var(--button-padding);
+}

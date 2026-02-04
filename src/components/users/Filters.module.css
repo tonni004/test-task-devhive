@@ -1,0 +1,14 @@
+@import "../../styles/variables.css";
+
+.container {
+    margin: 25px 0;
+}
+
+.searchInput {
+    padding: var(--input-padding);
+    margin-right: 10px;
+}
+
+.selectCity {
+    padding: var(--input-padding);
+}

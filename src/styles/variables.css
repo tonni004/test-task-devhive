@@ -1,0 +1,10 @@
+:root {
+    --color-bg: #fafafa;
+    --dark-color-bg: #111;
+    --dark-text-color: #eee;
+    --color-foreground: #1a1a1a;
+    
+    --border-radius: 8px;
+    --input-padding: 5px;
+    --button-padding: 3px 10px;
+}
