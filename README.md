@@ -1,5 +1,7 @@
 # Тестове завдання — Список користувачів
 
+[Demo link]('https://tonni004.github.io/test-task-devhive/')
+
 ## Опис
 
 Проєкт реалізує сторінку користувачів з:
@@ -41,7 +43,7 @@
 ## Як запустити
 
 ```bash
-git clone <repo-url>
+git clone "https://github.com/tonni004/test-task-devhive"
 cd test-task-devhive
 
 npm install
